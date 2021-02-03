@@ -1,0 +1,66 @@
+h1{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: larger;
+    font-size: 3.6em;
+    font-weight: 900;
+    color: orange;
+    position: relative;
+       
+}
+.card-title{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-weight: 500;
+    margin: 4px ;
+    text-align: center;
+    font-size: 24px;
+    
+}
+
+
+.card-deck
+{
+    
+    position: relative;
+    background: transparent;
+   
+}
+
+
+/*.sub {
+    /* flex: 1 1 auto;*/
+    /*min-height: 1px;
+    width: 230px;
+    height: 100%;
+    border: 3px solid grey;
+    border-radius: 11px;
+    padding: 1.25rem;
+    
+    position: relative;
+    background: transparent;
+    border-radius: 2rem;
+    padding-left: 1.5 rem!important;
+    border-radius: 45px;
+  border: 2px solid black;
+  padding: 20px;
+  width: 100px;
+  height: 250px;
+  
+}*/
+.container{
+    
+     position: relative;
+}
+
+.card{
+    border-radius: 45px;
+    border: 2px solid grey;
+    background-color: rgba(0,0,0,.04);
+}
+#toggler{
+    font-size: 25px;
+    padding: 0px;
+    text-align: center;
+}
+

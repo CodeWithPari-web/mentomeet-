@@ -1,0 +1,57 @@
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.slider-area{
+   background: black;
+   padding: 50px 0;
+   position: relative;
+   margin: 120px 0;
+}
+
+.carousel-control.left,
+.carousel-control.right{
+   background: transparent;
+
+}
+
+.img-area{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    overflow:hidden;
+}
+
+.img-area img{
+   width: 100%;
+}
+
+.carousel-caption{
+   position: static;
+   padding-bottom: 15px;
+   padding-top: 0;
+
+}
+
+.carousel-caption h3{
+   font-size: 26px;
+   margin-bottom: 15px;
+   margin-top: 25px;
+}
+.carousel-caption h4{
+   color: yellow;
+}
+.carousel-caption p{
+   font-size: 18px;
+   margin: auto;
+   width: 70%;
+   margin-bottom: 10px;
+
+}
+
+.carousel-indicators{
+   bottom: -35px;
+}
